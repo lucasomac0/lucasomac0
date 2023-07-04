@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasomac0
+- 👋 Hi, I’m Lucas;
 - 👀 I’m interested in Web Development, trying to focus on Full-Stack development;
 - 🌱 I’m currently learning HTML and CSS, soon I plan on learning JavaScript;
 - 📫 How to reach me: sfslucas2005@gmail.com
