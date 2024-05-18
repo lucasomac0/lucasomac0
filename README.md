@@ -5,8 +5,7 @@ Este perfil do GitHub é onde pretendo guardar os meus códigos de exercícios e
 
 ## Sobre Mim
 
-- 💻 Tenho conhecimentos básicos em programação, incluindo linguagens de programação como C e C++ e linguagem de marcação/estilo HTML e CSS;
-- 🎮 Gosto muito dos jogos da saga Souls;
+- 💻 Estou no segundo semestre da graduação, tenho conhecimentos básicos em programação, incluindo linguagens de programação como C e C++ e linguagem de marcação/estilo HTML e CSS;
 
 ## Conecte-se comigo
 
