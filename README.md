@@ -5,7 +5,7 @@ Este perfil do GitHub é onde pretendo guardar os meus códigos de exercícios e
 
 ## Sobre Mim
 
-- 💻 Estou no quarto semestre da graduação, tenho conhecimentos básicos em programação, incluindo linguagens de programação como C e C++ e linguagem de marcação/estilo HTML e CSS;
+- 💻 Estou no quarto semestre da graduação, tenho conhecimentos básicos em programação, incluindo linguagens de programação como C, C++, Java, Python e linguagem de marcação/estilo HTML e CSS;
 
 ## Conecte-se comigo
 
