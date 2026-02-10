@@ -1,3 +1,5 @@
+![](hi.gif)
+
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 Meu nome é Lucas Macedo, e estou atualmente estudando na Universidade do Estado de Santa Catarina (UDESC) - Centro de Ciências Tecnológicas (CCT), no curso de Bacharelado em Ciência da Computação.<br> <br>
@@ -15,4 +17,4 @@ Para entrar em contato comigo você pode mandar um email (([sfslucas2005@gmail.c
 
 Obrigado por passar por aqui e dar uma olhada no meu perfil. Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso. Espero que possamos colaborar em algum projeto no futuro!
 
-![](pot.gif)
+
