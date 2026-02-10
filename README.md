@@ -8,13 +8,16 @@ Currently, my main focus is solving complex infrastructure and optimization prob
 
 ---
 
-### 🔭 Current Focus (Research)
+### 🔭 Current Research Project
 
-I am conducting research at the intersection of **High-Performance Computing (HPC)** and **Machine Learning**.
+**Title:** Queue Management and Scheduling with Machine Learning Aid
 
-* **The Scope:** My work focuses on analyzing data traffic and resource allocation in large-scale interconnection networks, specifically the **Dragonfly topology**.
-* **The Goal:** I am investigating how **Graph Neural Networks (GNNs)** can be applied to optimize system performance, reduce latency, and manage network congestion in supercomputing environments.
-* **Key Areas:** Parallel Processing, Network Topologies, Graph Representation Learning.
+I am working on the orchestration of computational environments, specifically investigating queue management and task selection strategies.
+
+* **Objectives:** To prepare, organize, orchestrate, and schedule task queues with the assistance of Machine Learning.
+* **Methodology:** My work involves studying the state-of-the-art, developing computational prototypes to deepen theoretical knowledge, and implementing a formal proposal for analysis.
+* **Strategic Areas:** Cybernetics, Artificial Intelligence, and Internet of Things (IoT).
+* **Core Skills:** Resource Management (Task Orchestration), AI & ML Techniques, System Optimization.
 
 ---
 
@@ -35,7 +38,7 @@ When I'm not compiling code or training neural networks, you'll probably find me
 
 * 🎸 **Playing Guitar:** I'm passionate about classic tones (huge **Gary Moore** fan!) and I enjoy recording covers in my free time.
 * 💪 **At the Gym:** Testing workout algorithms (currently replacing Scott Curls with Bayesian Curls 🏋️‍♂️).
-* 📚 **Reading:** Currently studying scheduling algorithms and papers on GNN architectures. 
+* 📚 **Reading:** Currently studying scheduling algorithms and papers on GNN architectures.
 
 ---
 
@@ -44,7 +47,7 @@ When I'm not compiling code or training neural networks, you'll probably find me
 I'm always open to discussing research, HPC, or music!
 
 * 📧 **Email:** sfslucas2005@gmail.com
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/lucas-oliveira-macedo/]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/lucas-oliveira-macedo/
 
 ---
 <div align="center">
