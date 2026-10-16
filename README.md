@@ -14,7 +14,7 @@ Concluí minha Iniciação Científica sobre **gerenciamento de filas e escalona
 
 ---
 
-### Projetos em destaque
+### Projetos
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
