@@ -18,9 +18,10 @@ Concluí minha Iniciação Científica sobre **gerenciamento de filas e escalona
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
-| [Dashboard de Operações e Vendas](https://github.com/lucasomac0/dashboard-operacoes-vendas-materiais-construcao) | Dashboard que busca responder 7 perguntas sobre o desempenho de uma empresa fictícia de materiais de construção | Power BI, Excel, DAX, Power Query |
-| [Simulação de Sistema Acadêmico](https://github.com/lucasomac0/mini-siga-distribuido) | Simulador de um sistema similar ao SIGA utilizando Java RMI e Web Services para resolver problemas clássicos de sistemas distribuídos | Java, Web Services, SOAP |
-| [Recriação do Jogo de Memória Genius com Arduino](https://github.com/lucasomac0/genius-open-source) | Jogo de memória feito utilizando Arduino e componentes eletrônicos simples para ensino em escolas de educação básica | Arduino, C++ |
+| [Assistente de IA sobre CSV](https://github.com/lucasomac0/csv-rag-assistant) | Assistente de IA que responde perguntas com base em um CSV fornecido. | Python, RAG, LangChain, ChromaDB, Gemini, Ollama |
+| [Dashboard de Operações e Vendas](https://github.com/lucasomac0/dashboard-operacoes-vendas-materiais-construcao) | Dashboard que busca responder 7 perguntas sobre o desempenho de uma empresa fictícia de materiais de construção. | Power BI, Excel, DAX, Power Query |
+| [Simulação de Sistema Acadêmico](https://github.com/lucasomac0/mini-siga-distribuido) | Simulador de um sistema similar ao SIGA utilizando Java RMI e Web Services para resolver problemas clássicos de sistemas distribuídos. | Java, Web Services, SOAP |
+| [Recriação do Jogo de Memória Genius com Arduino](https://github.com/lucasomac0/genius-open-source) | Jogo de memória feito utilizando Arduino e componentes eletrônicos simples para ensino em escolas de educação básica. | Arduino, C++ |
 
 ---
 
@@ -29,7 +30,7 @@ Concluí minha Iniciação Científica sobre **gerenciamento de filas e escalona
 **Principais:** Python · SQL · Linux · Git · Docker <br>
 **Dados e IA:** PyTorch · Pandas · NumPy · Matplotlib · NetworkX <br>
 **HPC e infraestrutura:** Slurm · simulação de redes <br>
-**Também já usei:** C · C++ · Java · HTML/CSS · Arduino · LangChain · JavaScript 
+**Também já usei:** C · C++ · Java · HTML/CSS · Arduino · LangChain · JavaScript · ChromaDB · MongoDB 
 
 ---
 
