@@ -22,6 +22,7 @@ Concluí minha Iniciação Científica sobre **gerenciamento de filas e escalona
 | [Dashboard de Operações e Vendas](https://github.com/lucasomac0/dashboard-operacoes-vendas-materiais-construcao) | Dashboard que busca responder 7 perguntas sobre o desempenho de uma empresa fictícia de materiais de construção. | Power BI, Excel, DAX, Power Query |
 | [Simulação de Sistema Acadêmico](https://github.com/lucasomac0/mini-siga-distribuido) | Simulador de um sistema similar ao SIGA utilizando Java RMI e Web Services para resolver problemas clássicos de sistemas distribuídos. | Java, Web Services, SOAP |
 | [Recriação do Jogo de Memória Genius com Arduino](https://github.com/lucasomac0/genius-open-source) | Jogo de memória feito utilizando Arduino e componentes eletrônicos simples para ensino em escolas de educação básica. | Arduino, C++ |
+| [Sistema de Gestão de Eventos e Orçamentos](https://github.com/lucasomac0/gestor-eventos-postgreSQL) | Aplicativo desktop desenvolvido em Python com foco em arquitetura orientada a banco de dados. O sistema gerencia eventos, aloca serviços e calcula orçamentos automaticamente utilizando recursos avançados do PostgreSQL. | PostgreSQL, Python, Tkinter |
 
 ---
 
